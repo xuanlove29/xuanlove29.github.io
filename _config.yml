@@ -1,7 +1,7 @@
 # Site Settings
-name: Ma Yixuan
-title: MYX‘s Website
-description: 你好，你好
+name: Myx's Website
+title: MYX and his Blog
+description: 你好
 tags:
   - blog
   - template
@@ -17,7 +17,7 @@ menu:
   - title: Contact
     url: /contact
 
-email: youremail@test.com
+email: 1993307968@qq.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -27,7 +27,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: xuanlove29
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
