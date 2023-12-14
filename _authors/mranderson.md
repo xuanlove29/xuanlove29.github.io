@@ -1,11 +1,11 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
+name: MYX
+display_name: Mr. Maer
+position: student
+bio: a gre-gre-gereatest ideal killer
+github_username: xuanlove29
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
