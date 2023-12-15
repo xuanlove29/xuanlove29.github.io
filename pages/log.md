@@ -1,21 +1,22 @@
 ---
+
 layout: page
 menu: false
 date: unKown
 title: Log list
 description: Some description.
 permalink: /log/
----
-# 计划列表
 
-## 当天安排 1 && -3
+---
+
+## 计划列表
+
+### 当天安排 1 && -3
 
 - [ ] 英语六级
 - [ ] 组会
 
-## 明日安排
-
-## 任务时间表
+### 任务时间表
 
 数据结构，数字电路，线性代数，大学物理，英语
 
