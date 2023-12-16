@@ -4,7 +4,7 @@ menu: false
 date: unKown
 title: AI navigation
 description: URL navigation
-permalink: /AI navigation/
+permalink: /AI/
 ```
 
 # AI navigation
